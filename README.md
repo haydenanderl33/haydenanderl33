@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hayden
-- 👀 I’m looking for a career as a React Developer.
+- 👀 I’m looking for a job as a React Developer.
 - 🌱 I’m currently learning React, Node, Postgres, VanillaJS, Mongo, Firebase
 - 📫 Vist my portfolio site https://hayden-anderl-new-portfolio.netlify.app/ to view live projects/contact information
 
